@@ -1,8 +1,0 @@
-https://www.youtube.com/watch?v=WbqRH2r3N40
-
-PyData Channel
-https://www.youtube.com/@PyDataTV
-
-Data Validation
-https://www.youtube.com/watch?v=FuUE6an5bXI&list=PLGVZCDnMOq0qT0MXnci7VBSF-U-0WaQ-w&index=8
-https://github.com/NatanMish/data_validation?tab=readme-ov-file
